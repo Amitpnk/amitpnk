@@ -1,2 +1,1 @@
-# amitpnk
- All about Amit Naik
+# Hi, I'm Amit Naik 👋🏾 👩🏾‍💻
