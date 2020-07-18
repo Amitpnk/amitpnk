@@ -1,4 +1,4 @@
-# Hi, I'm Amit Naik 👋🏾 👩🏾‍💻
+# Hi, I'm Amit Naik 👋🏾 👩🏾‍💻<img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="50">
 
 
 
@@ -9,3 +9,10 @@
 Technical lead with over 10+ years of work experience in Analysis, Design and Development of Software Applications Architecture. Conducting training/workshop/video recording and Skills development on new technologies for the developers in the organization
 
 Asp.net Core, APIs, C#, Design pattern, Sqlserver, React, Angular, MSBI, Webcomponent
+
+[![Amit Naik's github stats](https://github-readme-stats.vercel.app/api?username=amitpnk&hide=[%22prs%22])](https://github.com/amitpnk/github-readme-stats)
+
+
+<a href="mailto:amit.naik8103@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souvikghosh199831@gmail.com" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/amit-naik-81062547/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/amitpnk)
