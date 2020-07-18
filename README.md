@@ -10,8 +10,7 @@ Technical lead with over 10+ years of work experience in Analysis, Design and De
 
 Asp.net Core, APIs, C#, Design pattern, Sqlserver, React, Angular, MSBI, Webcomponent
 
-[![Amit Naik's github stats](https://github-readme-stats.vercel.app/api?username=amitpnk&hide=[%22prs%22])](https://github.com/amitpnk/github-readme-stats)
-
+[![Amit Naik's github stats](https://github-readme-stats.vercel.app/api?username=amitpnk&hide=[%22prs%22,%22issues%22]&show_icons=true&bg_color=fbf4ff)](https://github.com/amitpnk/github-readme-stats)
 
 For more details about me visit to  [https://amitpnk.github.io/](https://amitpnk.github.io/)
 
