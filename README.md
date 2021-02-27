@@ -4,11 +4,17 @@
 
 <img src="https://raw.githubusercontent.com/Amitpnk/amitpnk/master/bg-header.png" alt="banner that says aboutn Amit Naik">
 
- I do coding and motorcycling for fun during leisure time, but I have to pay the bills, so I also work for money :P
+I do coding and motorcycling for fun during leisure time, but I have to pay the bills, so I also work for money :P
 
 Technical lead with over 10+ years of work experience in Analysis, Design and Development of Software Applications Architecture. Conducting training/workshop/video recording and Skills development on new technologies for the developers in the organization
 
-Asp.net Core, APIs, C#, Design pattern, Sqlserver, React, Angular, MSBI, Webcomponent
+Article and Blogs:
+- Project Template on Microsoft marketplace https://marketplace.visualstudio.com/publishers/AmitNaik
+- C-sharpcorner https://www.c-sharpcorner.com/members/amit-naik3
+- Codeproject https://www.codeproject.com/script/Membership/View.aspx?mid=12920873
+- Medium https://amit-naik.medium.com/
+- Blog with description and one line interview question http://dotnet-professional-amit.blogspot.in/
+
 
 For more details about me visit to  [https://amitpnk.github.io/](https://amitpnk.github.io/)
 
