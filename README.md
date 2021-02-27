@@ -8,18 +8,18 @@ I do coding and motorcycling for fun during leisure time, but I have to pay the 
 
 Technical lead with over 10+ years of work experience in Analysis, Design and Development of Software Applications Architecture. Conducting training/workshop/video recording and Skills development on new technologies for the developers in the organization
 
-Article and Blogs:
-- Project Template on Microsoft marketplace https://marketplace.visualstudio.com/publishers/AmitNaik
-- C-sharpcorner https://www.c-sharpcorner.com/members/amit-naik3
-- Codeproject https://www.codeproject.com/script/Membership/View.aspx?mid=12920873
-- Medium https://amit-naik.medium.com/
-- Blog with description and one line interview question http://dotnet-professional-amit.blogspot.in/
-
+Article & Blogs :
+* LinkedIn profile: https://www.linkedin.com/in/amitpnk/
+* Project Template on Microsoft marketplace https://marketplace.visualstudio.com/publishers/AmitNaik
+* C-sharpcorner https://www.c-sharpcorner.com/members/amit-naik3
+* Codeproject https://www.codeproject.com/script/Membership/View.aspx?mid=12920873
+* Medium https://amit-naik.medium.com/
+* One line interview question http://dotnet-professional-amit.blogspot.in/
 
 For more details about me visit to  [https://amitpnk.github.io/](https://amitpnk.github.io/)
 
 [![Amit Naik's github stats](https://github-readme-stats.vercel.app/api?username=amitpnk&hide=[%22prs%22,%22issues%22]&show_icons=true)](https://github.com/amitpnk/github-readme-stats)
 
-<a href="mailto:amit.naik8103@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souvikghosh199831@gmail.com" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/amit-naik-81062547/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:amit.naik8103@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amit.naik8103@gmail.com" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/amitpnk/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Amitpnk?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=amitpnk" alt="amitpnk" /> </a>
