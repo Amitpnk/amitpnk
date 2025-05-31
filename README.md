@@ -1,4 +1,4 @@
-# Hi, I'm Amit Naik 👋👋🏾 👩🏾‍💻<img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="50">
+# Hi, I'm Amit Naik 👋🏾 👩🏾‍💻<img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="50">
 
 <img src="https://raw.githubusercontent.com/Amitpnk/amitpnk/master/bg-header.png" alt="banner about Amit Naik">
 
