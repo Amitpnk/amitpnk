@@ -11,7 +11,7 @@ I do coding and motorcycling for fun during leisure time, but I have to pay the 
 ## 👨‍💻 About Me
 
 I'm a technology enthusiast with 14+ years of experience in:
-- 🔹 Architecting enterprise-grade, cloud-native solutions (.NET, Azure, AKS, Functions)
+- 🔹 Architecting enterprise-grade, cloud-native solutions (.NET, Azure, AKS)
 - 🔹 Developing microservices using Clean/Onion Architecture, REST, gRPC, GraphQL
 - 🔹 Integrating AI/ML (OpenAI, MLflow, FastAPI)
 - 🔹 Building secure identity solutions with OAuth2, OpenID Connect, IdentityServer & Auth0
